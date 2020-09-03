@@ -1,0 +1,7 @@
+C:\Example\Demo_CS_LINQ\bin\Debug\Demo_CS_LINQ.exe.config
+C:\Example\Demo_CS_LINQ\bin\Debug\Demo_CS_LINQ.exe
+C:\Example\Demo_CS_LINQ\bin\Debug\Demo_CS_LINQ.pdb
+C:\Example\Demo_CS_LINQ\obj\Debug\Demo_CS_LINQ.csprojAssemblyReference.cache
+C:\Example\Demo_CS_LINQ\obj\Debug\Demo_CS_LINQ.csproj.CoreCompileInputs.cache
+C:\Example\Demo_CS_LINQ\obj\Debug\Demo_CS_LINQ.exe
+C:\Example\Demo_CS_LINQ\obj\Debug\Demo_CS_LINQ.pdb
